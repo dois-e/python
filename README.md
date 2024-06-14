@@ -1,0 +1,2 @@
+# python
+imc,aleatorio.par
